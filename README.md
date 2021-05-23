@@ -8,7 +8,7 @@ _These instructions will allow you to obtain a working copy of the project on yo
 
 _Windows 10_
 
-<img src=/Captures//VimWindows.png alt="Start"/>
+<img src=/Captures//VimWin.png alt="Start"/>
 
 _Ubuntu 20.04_
 
