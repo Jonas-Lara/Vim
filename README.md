@@ -17,16 +17,14 @@ _Ubuntu 20.04_
 ## Build with 🛠️
 
 
-* [Vim](https://www.vim.org/) - The all-powerful vim
+* [Vim](https://www.vim.org/) - The All-Powerful Vim
 * [WSL](https://docs.microsoft.com/en-us/windows/wsl/) - Windows Subsystem for Linux 2
 * [Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/) - The Windows Terminal
 
 
 ## Expressions of gratitude
 
-* Thank you for reviewing this repo-tutorial 🤓
-* Expect more tutorials of .NET
-* I hope I helped you
+* Thank you for reviewing this repo-tutorial, I hope I helped you.
 
 ---
 ⌨️ With ❤️ By [Jonas-Lara](https://github.com/Jonas-Lara) on behalf of [UPIIT](https://www.upiit.ipn.mx/)
