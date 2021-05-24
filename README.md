@@ -12,6 +12,8 @@ _Windows 10_
 
 _Ubuntu 20.04_
 
+_Terminando configuración_
+
 <img src=/Captures//VimUbuntu.png alt="Start"/>
 
 ## Build with 🛠️
