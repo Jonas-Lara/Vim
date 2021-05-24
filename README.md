@@ -1,6 +1,6 @@
 # Vimrc
 
-_This is a vim custom profile_
+_This is my vim custom profile_
 
 ## Starting 🚀
 
