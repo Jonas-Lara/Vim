@@ -8,7 +8,9 @@ _Estas instrucciones le permitirán obtener una copia de trabajo del proyecto en
 
 _Windows 10_
 
-<img src=/Captures//VIM.png alt="Start"/>
+<img src=/Captures//vimWindows.png alt="Start"/>
+
+<img src=/Captures//vimLinux.png alt="Start"/>
 
 ## Construido con 🛠️
 
